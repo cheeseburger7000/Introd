@@ -21,27 +21,12 @@
       {
         "name": "1984",
         "author": "George Orwell",
-        "impressive_sentences": [
-          "猪确实聪明, 他们能想出排除每个困难的办法."
-        ]
+        "impressive_sentences": []
       }
     ],
-    "favorite_games": [
-      {
-        "name": "Overwatch",
-        "good_heros": [
-          "doomfist",
-          "genji",
-          "sombra"
-        ],
-        "rank": 2500
-      },
-      {
-        "name": "PUBG"
-      }
-    ],
+    "favorite_games": [],
     "null": null,
-    "isEdit": false,
+    "isRelease": false,
     "func": "function add(a, b) {}"
   }
 }
